@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nicodivi
+- 👀 I’m interested in web developpement
+- 🌱 I’m currently learning javascript , php and mysql.
